@@ -246,5 +246,13 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x04D83ABb3e0C163aD09e9E46CC5320463f8f50d1",
+    "symbol": "ZOFT",
+    "name": "ZingownerFanToken",
+    "decimals": 18,
+    "logoURI": "https://i.ibb.co/tcnBHjg/ZoftLogo.png"
   }
 ]
